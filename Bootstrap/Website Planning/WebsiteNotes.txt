@@ -1,0 +1,57 @@
+Menu(All Websites)
+	->Home
+		*Announcements/Updates for the public(i.e. Progression kills)
+	->Members
+		*Table of all members with names to hotlink to armory
+			**Might have split for Progression Raiders and Casuals
+	->Recruitment
+		*Forum
+			**Use class images(distruction warlock symbol i.e. rain of fire icon)
+			**Use JS for modal popup window maybe with brief description of what we are looking for
+	->Progression(kills)
+		*List of Progression
+			**Use Image of video for hotlink
+			**Use JS for modal popup with video in it
+		
+Left content(Website#1)
+**Fixed information to all pages
+	->Calander
+		**Raid days on it/Officer Meetings/Etc.
+	->Links of important messages(can use JS to pop up modal screen with message)
+
+Main Content(Website#1)
+**Display all content here
+**There will be a Previous and Next button at bottom of Scroll(length of scroll TBA)
+	->Display messages(**another option**)
+		**Front Page
+	->Show members here
+	->Show all recruitement here
+	->Show all progression
+
+Right Content(Website#1)
+**Fixed information to all pages
+	->Updates for guildies to know which public can see
+		**might be able to implement where it's hidden to public but open for members when Signed in
+	->Patch Notes updates(links)
+
+Main Content(Website#2)
+**Everything is withing one Main Content color(will have a scroll bar here to scroll for older content)
+**There will be a Previous and Next button at bottom of Scroll(length of scroll TBA)
+	->Display public information here
+	->Show members here
+	->Show all recruitement here
+	->Show all progression
+
+Main Content(Website#3)
+**Stacking main content with new section with every new subject(colors will flip-flop with every new content)
+**There will be a Previous and Next button at bottom of Scroll(length of scroll TBA)
+	->Display public information here
+		**Each Announcement will be a different section
+	->Show members here
+	->Show all recruitement here
+	->Show all progression
+Footer(All Websites)
+	->Link to guild Facebook if have one(bottom right section of footer)
+	->Link to guild twitter if have one
+	->How to contact
+	->Another link to recruitement page
